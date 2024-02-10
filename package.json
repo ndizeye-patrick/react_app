@@ -1,0 +1,11 @@
+{
+  "name": "starting-to-learn-react-dashboard-course-1-dashboard-.-a-vite-_-react-_-material-ui-_-accordions-_with-a-title-inside-the-box",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.html"
+  },
+  "author": "",
+  "license": "ISC"
+}

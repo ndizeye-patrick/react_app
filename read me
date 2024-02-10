@@ -1,0 +1,28 @@
+//TODO: Meaning
+
+
+
+Course 1 to run making a dashboard
+
+
+
+
+//TODO: Installation
+
+download or clone repository
+
+run: npm install 
+
+//TODO: running the component
+
+run: npm run dev
+
+//TODO:opening in browser
+
+app will be running on port 
+5173
+
+localhost:5173
+
+
+You are good to go
